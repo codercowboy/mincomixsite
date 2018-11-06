@@ -1,7 +1,7 @@
 <?php include "comicslib.php"; ?>
 <html>
 <head>
-<title>Drawing Salt.</title>
+<title>drawing salt</title>
 <style>
 	* { margin:0; padding:0; }
 	BODY { text-align:center; margin-bottom:30px; }
@@ -15,11 +15,11 @@
 	<h1>drawing salt</h1>
 	<h2>comics for people having days</h2>	
 
-	<img src="<?php echo $currentComic; ?>"/>
+	<img src="<?= $currentComicImage ?>"/>
 	<div class="links">
 		<a href="?comic=first">first</a>
-		<a href="?comic=<?php echo $previousComicIndex; ?>">previous</a>
-		<a href="?comic=<?php echo $nextComicIndex; ?>">next</a>
+		<a href="?comic=<?= $previousComicDate ?>">previous</a>
+		<a href="?comic=<?= $nextComicDate ?>">next</a>
 		<a href="?comic=last">last</a>
 	</div>
 </body>
