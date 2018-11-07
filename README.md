@@ -12,7 +12,7 @@ installation is as easy as unzipping the project, and dropping your comic images
 
 Check out this [demo](http://www.codercowboy.com/mincomixsite) to see the engine in action.
 
-All of the fantastic artwork shown in the demo was drawn by (@kawaiian.art)[https://www.instagram.com/kawaiian.art/].
+All of the fantastic artwork shown in the demo was drawn by [@kawaiian.art](https://www.instagram.com/kawaiian.art/).
 
 # How do I use mincomixsite ?
 
