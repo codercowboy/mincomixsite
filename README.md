@@ -6,9 +6,9 @@ A minimal web template for hosting web comics.
 
 # What? 
 
-mincomixsite is a very simple and small web engine for powering web comic websites that look great on computers and mobile devices.
+mincomixsite is a very simple and small engine for powering web comic sites that look great on computers and mobile devices.
 
-installation is as easy as unzipping the project, and dropping your comic images in place.
+Installation is as easy as unzipping the project and dropping your comic images in place.
 
 Check out this [demo](http://www.codercowboy.com/mincomixsite) to see the engine in action.
 
