@@ -10,7 +10,7 @@ mincomixsite is a very simple and small engine for powering web comic sites that
 
 Installation is as easy as unzipping the project and dropping your comic images in place.
 
-Check out this [demo](http://www.codercowboy.com/mincomixsite) to see the engine in action.
+Check out this [demo](http://www.codercowboy.com/mincomixsite) to see mincomixsite in action.
 
 All of the fantastic artwork shown in the demo was drawn by [@kawaiian.art](https://www.instagram.com/kawaiian.art/).
 
@@ -34,7 +34,7 @@ All of the fantastic artwork shown in the demo was drawn by [@kawaiian.art](http
 If you don't have a webhost yet, here are some suggestions:
 
 1. Acquire a domain name from somewhere like [GoDaddy](https://www.godaddy.com/) or [Google Domains](https://domains.google/).
-2. Setup a web hosting account with a webhost such as [DreamHost](https://www.dreamhost.com/) or [Another option listed here](https://www.pcmag.com/article2/0,2817,2424725,00.asp). Be sure your host allows you to upload files directly to their server, and make sure they provide PHP with your hosting plan. 
+2. Setup a web hosting account with a webhost such as [DreamHost](https://www.dreamhost.com/) or [another option listed here](https://www.pcmag.com/article2/0,2817,2424725,00.asp). Be sure your host allows you to upload files directly to their server, and make sure they provide PHP with your hosting plan. 
 
 If you'd like to run mincomixsite on your computer:
 
@@ -55,7 +55,7 @@ There are a number of simple customizations you can make to the [index.php](inde
 
 # Contributing To The Project
 
-If you'd like to contribute to the project. Great. [Fork the repo](https://help.github.com/articles/fork-a-repo/) and send me [Pull Requests](https://help.github.com/articles/about-pull-requests/) or just [email me](jason@onejasonforsale.com) your changed files. I'll happily give you credit here.
+If you'd like to contribute to the project, great! [Fork the repo](https://help.github.com/articles/fork-a-repo/) and send me [pull requests](https://help.github.com/articles/about-pull-requests/) or just [email me](jason@onejasonforsale.com) your changed files. I'll happily give you credit here.
 
 Some ideas for contributing
 
