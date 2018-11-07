@@ -1,7 +1,7 @@
 <?php include "comicslib.php"; ?>
 <html>
 <head>
-<title>drawing salt</title>
+<title>mincomixsite demo</title>
 <style>
 	* { margin:0; padding:0; -webkit-text-size-adjust:100%; font-family:Arial, Verdana, serif; }
 	BODY { text-align:center; margin-bottom:30px; }
@@ -18,8 +18,8 @@
 </head>
 <body>
 	<div class="pageHeader">
-		<h1>drawing salt</h1>
-		<h2>comics for people having days</h2>	
+		<h1>mincomixsite</h1>
+		<h2>tagline for <a href="https://github.com/codercowboy/mincomixsite">mincomixsite</a> demo</h2>	
 	</div>
 
 	<img src="<?= $currentComicImage ?>"/>
@@ -31,5 +31,7 @@
 		<a href="?comic=last">&gt;&nbsp;&gt;</a>
 	</div>
 </body>
+
+<!-- Powered by mincomixsite (https://github.com/codercowboy/mincomixsite) -->
 
 </html>
