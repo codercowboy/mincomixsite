@@ -20,14 +20,14 @@ All of the fantastic artwork shown in the demo was drawn by [@kawaiian.art](http
  2. Unzip the repo on your computer. 
  3. Remove the unzipped sample dated comics folders and images from the [comics](comics) folder.
  4. Add your comics to the site:
-   a. Create a dated folder under the unzipped [comics](comics) folder, such as *20181022* for October 22, 2018.
-   b. Copy your comic's image into the dated folder you created. I recommend an image size that's a maximum of 800 pixels wide.
-   c. Repeat steps *a* and *b* for each comic image.
+   - a: Create a dated folder under the unzipped [comics](comics) folder, such as *20181022* for October 22, 2018.
+   - b: Copy your comic's image into the dated folder you created. I recommend an image size that's a maximum of 800 pixels wide.
+   - c: Repeat steps *a* and *b* for each comic image.
  6. Customize the site template.
-   a. Open the unzipped [index.php](index.php) file in a text editor such as [Notepad++](https://notepad-plus-plus.org/) for Windows or [Sublime Text](https://www.sublimetext.com/) for MacOS.
-   b. Change the site's title in the &lt;title&gt; html tag.
-   c. Change the site's title in the &lt;h1&gt; html tag.
-   d. Change or remove the sites tagline in the &lt;h2&gt; html tag.
+   - a: Open the unzipped [index.php](index.php) file in a text editor such as [Notepad++](https://notepad-plus-plus.org/) for Windows or [Sublime Text](https://www.sublimetext.com/) for MacOS.
+   - b: Change the site's title in the &lt;title&gt; html tag.
+   - c: Change the site's title in the &lt;h1&gt; html tag.
+   - d: Change or remove the sites tagline in the &lt;h2&gt; html tag.
  7. Upload all of your files (including [index.php](index.php), [comicslib.php](comicslib.php), and all of the [comics](comics) folder) to your webhost with something like [FileZilla](https://filezilla-project.org/).
  8. Open your site in a browser.
 
