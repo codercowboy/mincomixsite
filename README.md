@@ -16,32 +16,32 @@ All of the fantastic artwork shown in the demo was drawn by [@kawaiian.art](http
 
 # How do I use mincomixsite ?
 
- 1. Clone or download the repo zip file by clicking the big green "Clone or Download" button on the top right of this page.
- 2. Unzip the repo on your computer. 
- 3. Remove the unzipped sample dated comics folders and images from the [comics](comics) folder.
- 4. Add your comics to the site:
-   - a: Create a dated folder under the unzipped [comics](comics) folder, such as *20181022* for October 22, 2018.
-   - b: Copy your comic's image into the dated folder you created. I recommend an image size that's a maximum of 800 pixels wide.
-   - c: Repeat steps *a* and *b* for each comic image.
- 6. Customize the site template.
-   - a: Open the unzipped [index.php](index.php) file in a text editor such as [Notepad++](https://notepad-plus-plus.org/) for Windows or [Sublime Text](https://www.sublimetext.com/) for MacOS.
-   - b: Change the site's title in the &lt;title&gt; html tag.
-   - c: Change the site's title in the &lt;h1&gt; html tag.
-   - d: Change or remove the sites tagline in the &lt;h2&gt; html tag.
- 7. Upload all of your files (including [index.php](index.php), [comicslib.php](comicslib.php), and all of the [comics](comics) folder) to your webhost with something like [FileZilla](https://filezilla-project.org/).
- 8. Open your site in a browser.
+1. Clone or download the repo zip file by clicking the big green "Clone or Download" button on the top right of this page.
+2. Unzip the repo on your computer. 
+3. Remove the unzipped sample dated comics folders and images from the [comics](comics) folder.
+4. Add your comics to the site:
+  - a: Create a dated folder under the unzipped [comics](comics) folder, such as *20181022* for October 22, 2018.
+  - b: Copy your comic's image into the dated folder you created. I recommend an image size that's a maximum of 800 pixels wide.
+  - c: Repeat steps *a* and *b* for each comic image.
+6. Customize the site template.
+  - a: Open the unzipped [index.php](index.php) file in a text editor such as [Notepad++](https://notepad-plus-plus.org/) for Windows or [Sublime Text](https://www.sublimetext.com/) for MacOS.
+  - b: Change the site's title in the &lt;title&gt; html tag.
+  - c: Change the site's title in the &lt;h1&gt; html tag.
+  - d: Change or remove the sites tagline in the &lt;h2&gt; html tag.
+7. Upload all of your files (including [index.php](index.php), [comicslib.php](comicslib.php), and all of the [comics](comics) folder) to your webhost with something like [FileZilla](https://filezilla-project.org/).
+8. Open your site in a browser.
 
 If you don't have a webhost yet, here are some suggestions:
 
- 1. Acquire a domain name from somewhere like [GoDaddy](https://www.godaddy.com/) or [Google Domains](https://domains.google/).
- 2. Setup a web hosting account with a webhost such as [DreamHost](https://www.dreamhost.com/) or [Another option listed here](https://www.pcmag.com/article2/0,2817,2424725,00.asp). Be sure your host allows you to upload files directly to their server, and make sure they provide PHP with your hosting plan. 
+1. Acquire a domain name from somewhere like [GoDaddy](https://www.godaddy.com/) or [Google Domains](https://domains.google/).
+2. Setup a web hosting account with a webhost such as [DreamHost](https://www.dreamhost.com/) or [Another option listed here](https://www.pcmag.com/article2/0,2817,2424725,00.asp). Be sure your host allows you to upload files directly to their server, and make sure they provide PHP with your hosting plan. 
 
 If you'd like to run mincomixsite on your computer:
 
- 1. Download a [LAMP stack](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) (which is a software collection comprised of a web server, php, and mysql), and install it. I personally prefer [XAMPP](https://www.apachefriends.org/index.html), which is available for both Windows and MacOs.
- 2. Start the [apache web server](https://httpd.apache.org/) that comes with the LAMP stack from the LAMP installation's management panel.
- 3. Put your mincomixsite folder of files in the LAMP installation's document root. On my MacOS machine with [XAMPP](https://www.apachefriends.org/index.html), this was done by copying my mincomixsite folder to */Applications/XAMPP/htdocs*.
- 4. Open mincomixsite from your computer in a browser. For my XAMPP installation on MacOS, that url is: [http://localhost/mincomixsite](http://localhost/mincomixsite), which in turn loads files for the browser from */Applications/XAMPP/htdocs/mincomixsite/*.
+1. Download a [LAMP stack](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) (which is a software collection comprised of a web server, php, and mysql), and install it. I personally prefer [XAMPP](https://www.apachefriends.org/index.html), which is available for both Windows and MacOs.
+2. Start the [apache web server](https://httpd.apache.org/) that comes with the LAMP stack from the LAMP installation's management panel.
+3. Put your mincomixsite folder of files in the LAMP installation's document root. On my MacOS machine with [XAMPP](https://www.apachefriends.org/index.html), this was done by copying my mincomixsite folder to */Applications/XAMPP/htdocs*.
+4. Open mincomixsite from your computer in a browser. For my XAMPP installation on MacOS, that url is: [http://localhost/mincomixsite](http://localhost/mincomixsite), which in turn loads files for the browser from */Applications/XAMPP/htdocs/mincomixsite/*.
 
 # Advanced Usage
 
